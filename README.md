@@ -1,2 +1,4 @@
 # helloworld
-Just another repository
+ 
+ Hii friends,
+    Nagarani here,I like web technologies
